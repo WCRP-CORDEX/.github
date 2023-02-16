@@ -1,4 +1,4 @@
-The CORDEX vision is to advance and coordinate the science and application of regional climate downscaling through global partnerships.[^1]
+*The CORDEX vision is to advance and coordinate the science and application of regional climate downscaling through global partnerships.*[^1]
 
 [^1]: from https://cordex.org
 
